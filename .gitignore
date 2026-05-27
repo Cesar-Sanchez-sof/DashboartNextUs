@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$*
+
+# Streamlit credentials (never upload private keys/emails)
+.streamlit/credentials.toml
+
+# Local environments
+.venv/
+env/
+venv/
+ENV/

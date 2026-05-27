@@ -1,0 +1,105 @@
+Título del Formulario: Estudio de Necesidades: Intercambio de Materiales Académicos en el Campus UPAO
+Descripción: ¡Hola! 👋 Esta encuesta busca entender cómo los estudiantes de la UPAO resolvemos la falta urgente de materiales cotidianos (libros, calculadoras, herramientas) y explorar la disposición a compartir recursos de forma segura. Tus respuestas son anónimas y nos ayudarán a diseñar una plataforma tecnológica a nuestra medida. ¡Te tomará unos 4 minutos! 🚀
+
+Sección 1: Hábitos y Necesidades (La Demanda)
+(Añadir descripción: Empecemos hablando de esas semanas de parciales o entregas finales).
+
+1. Durante el ciclo académico, ¿con qué frecuencia te falta un artículo cotidiano (ej. calculadora, libro, adaptador) que necesitas urgente pero no tienes presupuesto para comprar? [Opción múltiple]
+Frecuentemente (varias veces al mes)
+Ocasionalmente (1 a 3 veces por ciclo)
+Rara vez o nunca
+
+2. ¿Qué tipo de artículos te suelen hacer falta por solo un par de días?
+Calculadoras (básicas, científicas, financieras)   
+Libros, separatas o material de lectura específico   
+Herramientas o materiales menores (reglas, bisturís, cables)   
+Fotografía / Audiovisual (aros de luz, trípodes básicos)   
+Otro: (Añadir respuesta 'Otro')
+
+3. Actualmente, cuando te falta algo temporalmente, ¿cómo sueles solucionarlo? [Opción múltiple]
+Se lo pido prestado a un amigo de confianza.
+Me resigno a comprarlo, aunque afecte mi presupuesto.
+Busco en grupos de WhatsApp/Facebook, pero es difícil coordinar.
+Hago el trabajo sin el artículo.
+
+4. Si usaras una plataforma para alquilar estos artículos a bajo costo, ¿qué filtros de búsqueda serían los más importantes para ti? (Elige máximo 2) [Casillas de verificación]
+Que el dueño sea de mi misma universidad/facultad.   
+Que el precio sea el más bajo posible.   
+Que el estado del artículo sea "Como nuevo".   
+Que el dueño tenga una calificación de 4 o 5 estrellas.
+
+5. ¿Tienes artículos de estudio en buen estado que usas muy poco y que podrían servirle a otro estudiante? [Opción múltiple]
+Sí, tengo varias cosas.
+Tengo 1 o 2 cosas.
+No tengo nada útil para otros.
+
+6. Si pudieras ganar dinero extra alquilando esas cosas en el campus, ¿cuál sería tu mayor barrera para hacerlo? [Opción múltiple]
+Miedo a que me lo dañen y nadie asuma el costo.
+Miedo a que se lo roben o no lo devuelvan.
+La pereza de coordinar la entrega con un desconocido.
+No saber cómo cobrar el dinero.
+
+7. Al publicar un artículo, ¿qué tan útil sería poder configurar descuentos automáticos si alguien te lo alquila por toda una semana en lugar de un solo día? [Opción múltiple]
+Muy útil, me aseguraría ingresos fijos por más días.   
+Poco útil, prefiero alquilarlo solo por días sueltos.
+
+8. Si te vas de vacaciones o tienes exámenes, ¿te gustaría tener un botón para "Pausar" temporalmente tus anuncios sin tener que borrarlos? [Opción múltiple]
+Sí, sería indispensable para no recibir solicitudes cuando estoy ocupado.   
+Me daría igual, simplemente ignoraría las solicitudes.
+
+9. Como dueño del artículo, ¿te interesaría ver estadísticas de cuántas personas han visto tu anuncio? [Opción múltiple]
+Sí, para saber si mi artículo genera interés o si debo bajarle el precio.   
+No, solo me interesa que me llegue la notificación cuando alguien quiera alquilarlo.
+
+10. Para garantizar la seguridad de todos, la plataforma exigirá registrarse obligatoriamente con el correo institucional (@upao.edu.pe) y código de alumno. ¿Qué opinas de esto? [Opción múltiple]
+Me da mucha confianza saber que todos son estudiantes verificados.   
+Me parece bien, aunque es un paso extra.   
+No me gusta, prefiero usar mi correo personal (Gmail/Hotmail).
+
+11. Imagina que vas a alquilar un libro por S/ 3 al día. Para proteger al dueño, se te pide pagar un "depósito de garantía" (ej. S/ 15) que se te reembolsará en máximo 48 horas al devolverlo. ¿Aceptarías esta condición? [Opción múltiple]
+Sí, es un modelo justo para cuidar las cosas ajenas.   
+Solo si el depósito exigido es realmente bajo.   
+No, me da desconfianza dejar mi dinero retenido.
+
+12. Como propietario que alquila sus cosas, ¿qué método preferirías para retirar tus ganancias de la plataforma? [Casillas de verificación]
+Billeteras digitales (Yape / Plin)   
+Transferencia directa a mi Cuenta Bancaria   
+Mantenerlo como saldo en la app para alquilar yo otras cosas
+
+13. Para que la plataforma cubra el seguro contra daños y mantenga los servidores, retendría una comisión (ej. 30%) sobre el costo del alquiler. Sabiendo esto, ¿te animarías a publicar tus artículos? [Opción múltiple]
+Sí, lo veo justo si eso me garantiza que mi artículo está protegido.   
+Me lo pensaría, preferiría que la comisión fuera menor.
+No, prefiero no usar la plataforma.
+
+14. Para coordinar el punto exacto de encuentro en la universidad, ¿qué herramienta prefieres usar? [Opción múltiple]
+Un botón en la app que me abra un chat directo de WhatsApp con la otra persona.   
+Un chat interno dentro de la misma aplicación para no dar mi número.
+Llamar por teléfono.
+
+15. Al momento de entregar físicamente el artículo, ¿qué método te parece más seguro para confirmar en el sistema que el periodo de alquiler ha comenzado? [Opción múltiple]
+Que la persona que recibe escanee un Código QR desde mi celular.   
+Presionar un botón de "Confirmar Entrega" en la aplicación tras revisar el producto.
+
+16. Si tuvieras un inconveniente de último minuto, ¿consideras importante poder cancelar una reserva ya aceptada con 24 horas de anticipación? [Opción múltiple]
+Sí, los imprevistos académicos o personales siempre pasan.   
+No lo veo tan necesario.
+
+17. Si alquilaste un artículo por 2 días pero tu proyecto se extendió, ¿qué harías? [Opción múltiple]
+Presionar un botón en la app para solicitar una "Extensión de plazo" pagando la diferencia.   
+Hablarlo por WhatsApp con el dueño y pagarle en efectivo.
+Devolverlo como acordamos, sin importar mi proyecto.
+
+18. Si al devolver el artículo el dueño afirma (injustamente) que le hiciste un daño y no quiere liberar tu garantía, ¿qué esperarías del sistema? [Opción múltiple]
+Poder abrir una "Disputa formal" para que un administrador evalúe pruebas y decida.   
+Que el sistema me devuelva el dinero automáticamente si no hay fotos del daño.   
+Arreglarlo en persona, discutiendo con el dueño.
+
+19. ¿Qué tan importante es para ti poder ver y dejar reseñas (de 1 a 5 estrellas) sobre el comportamiento de otros estudiantes? [Opción múltiple]
+Muy importante, solo alquilaría si veo que tienen buenos comentarios.   
+Útil, pero no sería el factor definitivo para mí.
+Poco importante.
+
+20. Si una persona se retrasa en devolver un artículo, ¿qué penalidad crees que sería la más justa? [Opción múltiple]
+Una multa económica descontada de su garantía por cada día de retraso.   
+Una alerta pública de "Deuda Activa" en su perfil para que nadie más le alquile.   
+Bloqueo temporal de su cuenta institucional en el sistema.

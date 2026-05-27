@@ -1,0 +1,5 @@
+# Dependencias necesarias para el Dashboard de Análisis de Encuesta UPAO
+pandas>=2.0.0
+openpyxl>=3.1.0
+streamlit>=1.30.0
+plotly>=5.18.0
